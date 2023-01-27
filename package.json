@@ -1,0 +1,23 @@
+{
+  "name": "lib-canvas",
+  "version": "1.0.0",
+  "description": "library to manipulate the canvas dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afca007/lib-canvas.git"
+  },
+  "keywords": [
+    "canvas",
+    "dom"
+  ],
+  "author": "Andres Felipe Caro Arango",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afca007/lib-canvas/issues"
+  },
+  "homepage": "https://github.com/afca007/lib-canvas#readme"
+}
